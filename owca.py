@@ -1,0 +1,1 @@
+ileowiec = input("jak duża piramide z owiec mam narysowac: ")
